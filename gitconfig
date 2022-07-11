@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pkoers75@gmail.com
+	name = Patrick Koers
